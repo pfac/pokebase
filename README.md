@@ -8,7 +8,11 @@ Pokémon Fanmade Database
 * Rails 4.0.0
 
 
-## Disclaimer
+## License
+
+PokeBase is released under the [MIT License](http://www.opensource.org/licenses/MIT)
+
+### Disclaimer
 
 _taken from the [Bulbapedia](http://bulbapedia.bulbagarden.net/wiki/Bulbapedia:Copyrights)_
 
