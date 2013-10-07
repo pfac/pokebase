@@ -1,5 +1,7 @@
-Pokémon Fanmade Database
-========================
+PokeBase
+========
+
+A Pokémon database, as a service.
 
 
 ## Requirements
