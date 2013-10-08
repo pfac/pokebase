@@ -10,6 +10,11 @@ A Pokémon database, as a service.
 * Rails 4.0.0
 
 
+## Bibliography
+
+* Aaron Summer, _Testing with RSpec - A practical approach to test-driven development_, [Everyday Rails](http://everydayrails.com)
+
+
 ## License
 
 PokeBase is released under the [MIT License](http://www.opensource.org/licenses/MIT)
