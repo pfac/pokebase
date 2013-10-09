@@ -6,7 +6,7 @@
 
 # Ignore bundler config.
 /.bundle
-bin/ # and the binstubs
+bin/
 
 # Ignore the default SQLite database.
 /db/*.sqlite3
